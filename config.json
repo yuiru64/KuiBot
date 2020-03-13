@@ -1,0 +1,21 @@
+{
+    "execute.map": {
+        "php": "php",
+        "python": "python"
+    },
+    "execute.timeout": 20000,
+    "execute.priority": {
+        "SustcBus": 0,
+        "Keywords": 10000
+    },
+    "bot.secret": "kui",
+    "bot.api": {
+        "host": "127.0.0.1",
+        "port": 6700
+    },
+    "server": {
+        "host": "0.0.0.0",
+        "port": 4700,
+        "debug": true
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "type": "php",
+    "author": "Yvzzi",
+    "description": "提供校巴信息",
+    "version": "1.0.0",
+    "main": "Main"
+}

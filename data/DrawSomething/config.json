@@ -1,0 +1,16 @@
+{
+    "player.max": 10,
+    "player.min": 2,
+    "game.round": 1,
+    "game.tickPeriod": 3,
+    "game.questions": [
+        {
+            "word": "apple",
+            "tip": "A fruit"
+        },
+        {
+            "word": "banana",
+            "tip": "A fruit"
+        }
+    ]
+}

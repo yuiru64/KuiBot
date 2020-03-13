@@ -1,0 +1,8 @@
+{
+    "name": "DrawSomething",
+    "author": "Yvzzi",
+    "description": "A game with Chinese name \"你画我猜\"",
+    "version": "1.0.0",
+    "main": "Main",
+    "type": "php"
+}
